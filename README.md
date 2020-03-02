@@ -16,6 +16,6 @@ These are my config files for Marlin. The include multiple tweaks I found all ov
 ### Notes:
 
 - Z Probe Offset should be calculated and configured. See: [Calibrating Z-Offset With A BLTouch Bed Levelling Probe](https://www.youtube.com/watch?v=y_1Kg45APko) -- See GCODEs in the description. I didn't use Pronterface. Instead, I used OctoPrint to type them in the console.
-- Esteps and flow rate should be calibrated. See: [Esteps and Flow Rate using Octoprint and Free Air Method](https://www.youtube.com/watch?v=HVljfDVPp3o)
+- Esteps and flow rate should be calibrated. See: [Esteps and Flow Rate using Octoprint and Free Air Method](https://www.youtube.com/watch?v=HVljfDVPp3o) or [3D Printer Extruder Calibration](https://www.youtube.com/watch?v=xzQjtWhg9VE)
 - Fantastic guide: [3D Printer Help Guide Creality & Others](https://www.th3dstudio.com/knowledgebase/3d-printer-help-guide-creality-others/)
 
