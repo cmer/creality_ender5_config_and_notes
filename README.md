@@ -19,6 +19,8 @@ Included are my config files for Marlin. The include multiple tweaks I found all
 - Esteps and flow rate should be calibrated. See: [Esteps and Flow Rate using Octoprint and Free Air Method](https://www.youtube.com/watch?v=HVljfDVPp3o) or [3D Printer Extruder Calibration](https://www.youtube.com/watch?v=xzQjtWhg9VE)
 - [Acceleration & Junction Deviation Tuning](https://www.youtube.com/watch?v=Mnvj6xCzikM)
 - X/Y/Z Step Calibration. See: [STEP Calibration Piece (X, Y and Z axis)](https://www.thingiverse.com/thing:195604)
+- Best bed leveling file. See: [Thingiverse: Ender 3 Bed Level Test](https://www.thingiverse.com/thing:2987803)
+- Best misc calibration files. See: [Thingiverse: Ender 3 Calibration Files](https://www.thingiverse.com/thing:3071464)
 
 ### Latest Tuning Values:
 
