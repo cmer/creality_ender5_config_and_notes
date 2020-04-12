@@ -26,7 +26,7 @@ Included are my config files for Marlin. The include multiple tweaks I found all
 
 ### Tuning:
 
-- Z-Offset should be calculated and configured. See: [Calibrating Z-Offset With A BLTouch Bed Levelling Probe](https://www.youtube.com/watch?v=y_1Kg45APko) -- See GCODEs in the description. I didn't use Pronterface. Instead, I used OctoPrint to type them in the console.
+- Z-Offset should be calculated and configured. See: [Calibrating Z-Offset With A BLTouch Bed Levelling Probe](https://www.youtube.com/watch?v=y_1Kg45APko) -- Use [zoffset-calibrate.gcode](gcode/zoffset-calibrate.gcode)
 - Esteps and flow rate should be calibrated. See: [Esteps and Flow Rate using Octoprint and Free Air Method](https://www.youtube.com/watch?v=HVljfDVPp3o) or [3D Printer Extruder Calibration](https://www.youtube.com/watch?v=xzQjtWhg9VE)
 - [Acceleration & Junction Deviation Tuning](https://www.youtube.com/watch?v=Mnvj6xCzikM)
 - X/Y/Z Step Calibration. See: [STEP Calibration Piece (X, Y and Z axis)](https://www.thingiverse.com/thing:195604)
