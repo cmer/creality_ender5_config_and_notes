@@ -10,10 +10,13 @@ Included are my config files for Marlin. The include multiple tweaks I found all
 
 - Creality Ender 5
 - Creality 1.1.4 stock controller board (8-bit)
+
+#### Mods:
+
 - [Genuine BL Touch w/ mounting kit](https://www.creality3dofficial.com/products/creality-bl-touch)
 - Creality glass bed
 - Capricorn bowden tubing
-
+- [Simple hot end fix](https://www.youtube.com/watch?v=7tCxO17XZtw)
 
 ### Coming soon:
 - BigTreeTech SKR 1.4 w/ TMC2209
