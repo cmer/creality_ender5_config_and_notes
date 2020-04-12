@@ -12,6 +12,14 @@ Included are my config files for Marlin. The include multiple tweaks I found all
 - Creality 1.1.4 stock controller board (8-bit)
 - [Genuine BL Touch w/ mounting kit](https://www.creality3dofficial.com/products/creality-bl-touch)
 - Creality glass bed
+- Capricorn bowden tubing
+
+
+### Coming soon:
+- BigTreeTech SKR 1.4 w/ TMC2209
+- BigTreeTech TFT35
+- Hero Me Gen 3
+
 
 ### Tuning:
 
