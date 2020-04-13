@@ -14,14 +14,15 @@ Included are my config files for Marlin. The include multiple tweaks I found all
 #### Mods:
 
 - [Genuine BL Touch w/ mounting kit](https://www.creality3dofficial.com/products/creality-bl-touch)
-- Creality glass bed
-- Capricorn bowden tubing
+- [Creality glass bed](https://www.creality3dofficial.com/products/creality-new-upgraded-heated-bed-build-plate-surface)
+- [Capricorn bowden tubing](https://www.amazon.ca/gp/product/B07XXRVGP9/ref=ppx_yo_dt_b_search_asin_title)
 - [Simple hot end fix](https://www.youtube.com/watch?v=7tCxO17XZtw)
+- [Super Struts Remixed](https://www.thingiverse.com/thing:3661405)
 
 ### Coming soon:
 - BigTreeTech SKR 1.4 w/ TMC2209
 - BigTreeTech TFT35
-- Hero Me Gen 3
+- [Hero Me Gen 3](https://www.thingiverse.com/thing:3182917)
 
 
 ### Tuning:
