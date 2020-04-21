@@ -5,6 +5,9 @@ M205 X8.00 Y8.00 Z0.40 E5.00 ;Setup Jerk
 M220 S100 ;Reset Feedrate
 M221 S100 ;Reset Flowrate
 
+M190 S60 ;Heat up bed and wait
+M104 S200 ;Heat up hot end
+
 G28 ;Home
 G29 ;bltouch
 M420 S1 ; use generated mesh
