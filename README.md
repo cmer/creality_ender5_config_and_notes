@@ -1,29 +1,19 @@
 # My Ender 5 Config and Notes
 
-Included are my config files for Marlin. The include multiple tweaks I found all over the Interwebs, including, but likely not limited to:
-
-- [Teaching Tech: Ender 3 BLtouch vanilla Marlin guide](https://www.youtube.com/watch?v=sUlqrSq6LeY&t=324s)
-- [Teaching Tech: BLtouch advanced guide: Fully automated bed homing and levelling](https://www.youtube.com/watch?v=BV11-VOQjMc)
-- [Marlin 2.0 program memory usage by feature on AVR 8Bit boards](https://www.crosslink.io/marlin-2-0-memory-usage-by-feature/)
+Included are my config files for Marlin 2.x.x on a SKR Mini E3. They include some tweaks I found all over the Interwebs.
 
 ### My current setup:
 
-- Creality Ender 5
-- Creality 1.1.4 stock controller board (8-bit)
-
-#### Mods:
-
+- [Creality Ender 5](https://www.creality3dofficial.com/products/creality-ender-5-3d-printer)
+- [BigTreeTech SKR Mini E3 v2.0 32-bit board](https://www.youtube.com/watch?v=krz-plzJUH8)
 - [Genuine BL Touch w/ mounting kit](https://www.creality3dofficial.com/products/creality-bl-touch)
-- [Creality glass bed](https://www.creality3dofficial.com/products/creality-new-upgraded-heated-bed-build-plate-surface)
 - [Capricorn bowden tubing](https://www.amazon.ca/gp/product/B07XXRVGP9/ref=ppx_yo_dt_b_search_asin_title)
-- [Simple hot end fix](https://www.youtube.com/watch?v=7tCxO17XZtw)
 - [Super Struts Remixed](https://www.thingiverse.com/thing:3661405)
+- [Energetic PEI Magnetic Bed](https://www.aliexpress.com/item/32986940303.html?spm=a2g0s.9042311.0.0.1d824c4dMXbESu)
 
 ### Coming soon:
-- BigTreeTech SKR 1.4 w/ TMC2209
 - BigTreeTech TFT35
-- [Hero Me Gen 3](https://www.thingiverse.com/thing:3182917)
-
+- New duct
 
 ### Tuning:
 
@@ -33,12 +23,6 @@ Included are my config files for Marlin. The include multiple tweaks I found all
 - X/Y/Z Step Calibration. See: [STEP Calibration Piece (X, Y and Z axis)](https://www.thingiverse.com/thing:195604)
 - Best bed leveling file. See: [Thingiverse: Ender 3 Bed Level Test](https://www.thingiverse.com/thing:2987803)
 - Best misc calibration files. See: [Thingiverse: Ender 3 Calibration Files](https://www.thingiverse.com/thing:3071464)
-
-### Latest Tuning Values:
-
-- Z Probe Offset: -1.4
-- Esteps/mm: 95.3
-- Flow: 1.14285
 
 
 ### Notes:
