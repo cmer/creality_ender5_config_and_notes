@@ -5,16 +5,14 @@ M205 X8.00 Y8.00 Z0.40 E5.00 ;Setup Jerk
 M220 S100 ;Reset Feedrate
 M221 S100 ;Reset Flowrate
 
-M140 S{material_bed_temperature_layer_0} ; Set Heat Bed temperature
-M190 S{material_bed_temperature_layer_0} ; Wait for Heat Bed temperature
-M104 S160; Set hot end temp to 160
+M140 S{material_bed_temperature_layer_0} ; Set Heat Bed temperature and don't wait
+M104 S{material_print_temperature_layer_0} ; Set hot end temp and don't wait
 
 G28 ;Home
-G29 ;bltouch
-M420 S1 ; use generated mesh
+G29 S16000 ;bltouch
+M420 S1 ;use generated mesh
 
 G92 E0 ;Reset Extruder
-M104 S{material_print_temperature_layer_0} ; Set hot end temp
 
 G1 Z2.0 F3000 ;Move Z Axis up
 G1 X10.1 Y20 Z0.28 F5000.0 ;Move to start position
