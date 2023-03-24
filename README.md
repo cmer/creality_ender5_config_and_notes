@@ -6,14 +6,13 @@ Included are my config files for Marlin 2.x.x on a SKR Mini E3. They include som
 
 - [Creality Ender 5](https://www.creality3dofficial.com/products/creality-ender-5-3d-printer)
 - [BigTreeTech SKR Mini E3 v2.0 32-bit board](https://www.youtube.com/watch?v=krz-plzJUH8)
+- [Biqu H2 extruder/hotend](https://biqu.equipment/collections/hotend-extruder/products/biqu-h2-v2-0-extruder?variant=39852932759650)
 - [Genuine BL Touch w/ mounting kit](https://www.creality3dofficial.com/products/creality-bl-touch)
 - [Capricorn bowden tubing](https://www.amazon.ca/gp/product/B07XXRVGP9/ref=ppx_yo_dt_b_search_asin_title)
 - [Super Struts Remixed](https://www.thingiverse.com/thing:3661405)
 - [Energetic PEI Magnetic Bed](https://www.aliexpress.com/item/32986940303.html?spm=a2g0s.9042311.0.0.1d824c4dMXbESu)
+- [BigTreeTech TFT35](https://biqu.equipment/products/btt-tft35-e3-v3-0-display-touch-screen-two-working-modes)
 
-### Coming soon:
-- BigTreeTech TFT35
-- New duct
 
 ### Tuning:
 
